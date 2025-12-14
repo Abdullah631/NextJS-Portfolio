@@ -1,30 +1,100 @@
-# Resume details
+## 🚀 Personal Portfolio – Next.js
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, responsive personal portfolio website built with **Next.js** to showcase my projects, skills, and experience.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sheikh-abdullah-arshads-projects/v0-resume-details)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/faheWLY4lkG)
+🌐 **Live Demo:** [https://abdullah-portfolio-details.vercel.app/](https://abdullah-portfolio-details.vercel.app/)
+💼 **LinkedIn:** [www.linkedin.com/in/sheikh-abdullah-arshad-a6634a260](www.linkedin.com/in/sheikh-abdullah-arshad-a6634a260)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## ✨ Features
 
-## Deployment
+* ⚡ Built with **Next.js** (App Router / Pages Router)
+* 🎨 Modern UI with responsive design
+* 🌙 Dark / Light mode (if applicable)
+* 📱 Mobile-first layout
+* 🧩 Projects showcase section
+* 📬 Contact form (Email / API based)
+* 🚀 SEO optimized
+* 🔥 Fast performance and optimized assets
 
-Your project is live at:
+---
 
-**[https://vercel.com/sheikh-abdullah-arshads-projects/v0-resume-details](https://vercel.com/sheikh-abdullah-arshads-projects/v0-resume-details)**
+## 🛠 Tech Stack
 
-## Build your app
+* **Framework:** Next.js
+* **Language:** JavaScript / TypeScript
+* **Styling:** Tailwind CSS / CSS Modules / Styled Components
+* **Icons:** Lucide / FontAwesome / React Icons
+* **Deployment:** Vercel
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/faheWLY4lkG](https://v0.app/chat/faheWLY4lkG)**
+## 📁 Project Structure
 
-## How It Works
+```bash
+├── app / pages        # Next.js routing
+├── components         # Reusable UI components
+├── public             # Static assets
+├── styles             # Global styles
+├── utils / data       # Portfolio data & helpers
+└── README.md
+```
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## ⚙️ Getting Started (Local Setup)
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Abdullah631/NextJS-Portfolio
+
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open in browser:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Vercel**.
+
+To deploy your own version:
+
+1. Push the code to GitHub
+2. Import the repository in Vercel
+3. Set environment variables (if any)
+4. Deploy 🚀
+
+---
+
+
+## 📬 Contact
+
+If you’d like to collaborate or have any questions:
+
+* **Email:** [abdullah.arshad1823@gmail.com](mailto:abdullah.arshad1823@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/sheikh-abdullah-arshad-a6634a260](www.linkedin.com/in/sheikh-abdullah-arshad-a6634a260)
+
+---
+
+## ⭐ Support
+
+If you like this portfolio, consider giving it a **star ⭐** on GitHub!
